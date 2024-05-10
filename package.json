@@ -1,0 +1,14 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "simple server creation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Favour Idoko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
